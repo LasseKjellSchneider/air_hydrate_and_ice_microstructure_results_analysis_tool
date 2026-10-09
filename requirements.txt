@@ -1,0 +1,11 @@
+customtkinter
+matplotlib
+pandas
+numpy
+scipy
+h5py
+shapely
+opencv-python
+tifffile
+Pillow
+pyinstaller
